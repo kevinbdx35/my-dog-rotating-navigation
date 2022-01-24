@@ -16,6 +16,7 @@ This is simple rotation menu design
   - [Links](#links)
   - [Author](#author)
   - [Source](#source)
+  - [Licence](#licence)
 
 ![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-gif.gif?raw=true)
 
@@ -52,3 +53,5 @@ No API
 ## Author
 
 ## Source
+
+## Licence
