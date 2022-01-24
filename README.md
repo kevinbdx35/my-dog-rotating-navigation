@@ -11,6 +11,7 @@ This is simple rotation menu design
     - [Built With](#built-with)
     - [Prerequisites](#prerequisites)
     - [Setting up Dev](#setting-up-dev)
+    - [Screen Capture](#screen-capture)
   - [Api Reference](#api-reference)
   - [Links](#links)
   - [Author](#author)
