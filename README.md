@@ -54,6 +54,8 @@ No API
 
 ## Source
 
-## License
+- Idea from Brad Traversy and Florin Pop
+- Picture from Unsplash
 
--
+
+## License
