@@ -19,10 +19,6 @@ This is simple rotation menu design
 
 ![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-gif.gif?raw=true)
 
-![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-1.png?raw=true)
-![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-2.png?raw=true)
-
-
 ## Installing / Getting started
 
 There is no need for a special installation here. You just need to create an account on the site https://www.themoviedb.org to in order to be able to obtain an API key.
@@ -41,8 +37,18 @@ You just need to create an account on the site https://www.themoviedb.org to in 
 
 I just use a local server to develop this app.
 
+### Screen Capture
+![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-1.png?raw=true)
+![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-2.png?raw=true)
+
 ## Api Reference
 
 The API comes from the site https://www.themoviedb.org.
 You must have an account to obtain your API key.
 Here the documentation about this API https://developers.themoviedb.org/3/getting-started/introduction
+
+## Links
+
+## Author
+
+## Source
