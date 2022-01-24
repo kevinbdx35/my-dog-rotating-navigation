@@ -1,27 +1,26 @@
 # my-dog-rotating-navigation
-HTML-CSS-JAVASCRIPT
+
+This is simple rotation menu design 
+
+## Table of contents
+
+- [my-dog-rotating-navigation](#my-dog-rotating-navigation)
+  - [Table of contents](#table-of-contents)
+  - [Installing / Getting started](#installing-/-getting-started)
+  - [Developping](#developping)
+    - [Built With](#built-with)
+    - [Prerequisites](#prerequisites)
+    - [Setting up Dev](#setting-up-dev)
+  - [Api Reference](#api-reference)
+  - [Links](#links)
+  - [Author](#author)
+  - [Source](#source)
 
 ![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-gif.gif?raw=true)
 
 ![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-1.png?raw=true)
 ![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-2.png?raw=true)
 
-# Movie App
-
-This is an app to choose a movie to watch.
-The goal of this project is to train to use an API.
-
-## Table of contents
-
-- [Frontend Mentor - Order summary card solution](#frontend-mentor---order-summary-card-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-  - [Author](#author)
 
 ## Installing / Getting started
 
