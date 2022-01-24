@@ -6,7 +6,7 @@ This is simple rotation menu design
 
 - [my-dog-rotating-navigation](#my-dog-rotating-navigation)
   - [Table of contents](#table-of-contents)
-  - [Installing / Getting started](#installing-/-getting-started)
+  - [Installing / Getting started](#installing-and-getting-started)
   - [Developping](#developing)
     - [Built With](#built-with)
     - [Prerequisites](#prerequisites)
@@ -20,7 +20,7 @@ This is simple rotation menu design
 
 ![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-gif.gif?raw=true)
 
-## Installing / Getting started
+## Installing and Getting started
 
 There is no need for a special installation here.
 
