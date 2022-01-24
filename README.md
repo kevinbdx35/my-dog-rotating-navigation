@@ -47,6 +47,8 @@ No API
 
 ## Links
 
+![Demo](https://kevinbdx35.github.io/my-dog-rotating-navigation/)
+
 ## Author
 
 ## Source
