@@ -6,7 +6,7 @@ This is simple rotation menu design
 
 - [my-dog-rotating-navigation](#my-dog-rotating-navigation)
   - [Table of contents](#table-of-contents)
-  - [Installing / Getting started](#installing-and-getting-started)
+  - [Installing and Getting started](#installing-and-getting-started)
   - [Developping](#developing)
     - [Built With](#built-with)
     - [Prerequisites](#prerequisites)
